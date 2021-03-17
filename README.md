@@ -6,8 +6,8 @@
 
 # au-neutralino
 
-  A template for getting started with **[Aurelia](https://aurelia.io)**
- running on **[Neutralino.js](https://neutralino.js.org)**.
+  A template for getting started with **[aurelia](https://aurelia.io)**
+ running on **[neutralino.js](https://neutralino.js.org)**.
 
  >**NOTE:**  
  >This is using **Aurelia v2** , which is still in alpha stage!
@@ -39,6 +39,13 @@ then
 neu run
 ```
 
+### Debugging
+By default, neutralino runs in a window. 
+You can enable the inspector changing the value of `enableinspector` in `settings.json` file.
+
+It's also possible to run the application in the browser. for that you simply change de value of `mode` in `settings.json` from `window` to `browser`.
+
+For more information check Neutralino [documentation](http://neutralino.js.org/docs/#/)
 
 ## Release
 To create an executable for your application, you run:
