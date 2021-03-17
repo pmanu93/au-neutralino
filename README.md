@@ -39,6 +39,13 @@ then
 neu run
 ```
 
+### Debugging
+By default, neutralino runs in a window. 
+You can enable the inspector changing the value of `enableinspector` in `settings.json` file.
+
+It's also possible to run the application in the browser. for that you simply change de value of `mode` in `settings.json` from `window` to `browser`.
+
+For more information check Neutralino [documentation](http://neutralino.js.org/docs/#/)
 
 ## Release
 To create an executable for your application, you run:
