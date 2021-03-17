@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://cdn.rawgit.com/neutralinojs/neutralinojs.github.io/b667f2c2/docs/nllogo.png" style="width:25vw;"/>
+  <img src="https://cdn.rawgit.com/neutralinojs/neutralinojs.github.io/b667f2c2/docs/nllogo.png" width="160"/>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="https://aurelia.io/styles/images/aurelia-icon.svg" style="width:25vw;"/>
+  <img src="https://aurelia.io/styles/images/aurelia-icon.svg" width="150"/>
 </div>
 
 # au-neutralino
 
-  A template for getting started with **[aurelia](https://aurelia.io)**
- running on **[neutralino.js](https://neutralino.js.org)**.
+  A template for getting started with **[Aurelia](https://aurelia.io)**
+ running on **[Neutralino.js](https://neutralino.js.org)**.
 
  >**NOTE:**  
  >This is using **Aurelia v2** , which is still in alpha stage!
@@ -17,7 +17,7 @@
 
 
  
-## SETUP
+## Setup
 Install [neu-cli](https://neutralino.js.org/docs/#/tools/cli):
 ```sh
 npm i -g @neutralinojs/neu
