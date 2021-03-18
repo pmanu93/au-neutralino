@@ -13,6 +13,11 @@
  >This is using **Aurelia v2** , which is still in alpha stage!
  >
  > You can find documentation for this version [here](https://docs.aurelia.io/)
+ > 
+ > Unfortunately it will not work in windows because as it seems, neutralino uses IE engine in that platform... 
+ > [info](https://github.com/neutralinojs/evaluation#5-conclusion)
+ > 
+ > Using EDGE makes part of the [2021 roadmap](https://factsoverflow.com/neutralinojs-2021-roadmap/) tho
 
 
 There's also an aplication sample in [this repo](https://github.com/pmanu93/au-neutralino-sample)
