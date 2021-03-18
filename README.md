@@ -15,6 +15,7 @@
  > You can find documentation for this version [here](https://docs.aurelia.io/)
 
 
+There's also an aplication sample in [this repo](https://github.com/pmanu93/au-neutralino-sample)
 
  
 ## Setup
